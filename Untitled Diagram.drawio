@@ -1,26 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T20:35:52.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YbmT-pURsjG9L5xVu0wp" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T20:36:34.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a2GERkWkDVt4YzRC1RSY" version="21.3.7" type="github">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="2100" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="53" value="Fully Connected Layers" style="text;spacingTop=-5;align=center;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="469" y="200" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="62" value="All The Datasets &#xa;as input" style="text;spacingTop=-5;align=center;fontFamily=Helvetica;fontSize=12;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="161.0000000000001" y="68.00000000000003" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j6dJSgo5oTLflIwEnemM-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j6dJSgo5oTLflIwEnemM-108" target="j6dJSgo5oTLflIwEnemM-130">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j6dJSgo5oTLflIwEnemM-108" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+        <mxCell id="j6dJSgo5oTLflIwEnemM-108" value="Fully Connected Layers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="110" height="160" as="geometry" />
         </mxCell>
         <mxCell id="j6dJSgo5oTLflIwEnemM-116" value="First stage output" style="text;spacingTop=-5;align=center" vertex="1" parent="1">
           <mxGeometry x="243.0000000000001" y="110.00000000000003" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="j6dJSgo5oTLflIwEnemM-123" value="Second stage output" style="text;spacingTop=-5;align=center;whiteSpace=wrap;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="110" width="88" height="30" as="geometry" />
+          <mxGeometry x="425" y="110" width="35" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j6dJSgo5oTLflIwEnemM-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j6dJSgo5oTLflIwEnemM-126" target="j6dJSgo5oTLflIwEnemM-127">
           <mxGeometry relative="1" as="geometry" />
